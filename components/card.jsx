@@ -1,5 +1,5 @@
 export default function Card({ className, notes = [], icon }) {
-
+  console.log("card data", notes)
   return (
     <div className="pt-10">
       {/* Header */}

@@ -16,6 +16,7 @@ export async function GET() {
       success: true,
       notes,
     });
+
   } catch (err) {
     return NextResponse.json(
       {

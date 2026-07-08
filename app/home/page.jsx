@@ -24,7 +24,6 @@ export default function Home() {
 
       if (data.success) {
         setNotes(data.notes);
-        // console.log("data from the homescreen" ,data.notes)
       }
     } catch (err) {
       console.log(err);
