@@ -71,12 +71,12 @@ export default function Footer() {
                 </a>
 
                 <a
-                  href="https://wa.me/923171832631"
+                  href="https://www.snapchat.com/@hey.aliraza"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-white p-3 rounded-full hover:scale-110 transition duration-300 shadow-lg hover:shadow-green-500/50"
+                  className="bg-white p-3 rounded-full hover:scale-110 transition duration-300 shadow-lg hover:shadow-yellow-500/50"
                 >
-                  <img src="/whatsapp.png" alt="WhatsApp" className="w-7 h-7" />
+                  <img src="/snapchat.png" alt="Snapchat" className="w-7 h-7" />
                 </a>
 
                 <a
